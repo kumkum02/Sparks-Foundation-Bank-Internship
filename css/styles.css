@@ -1,0 +1,55 @@
+body{
+  height:100%;
+  font-family:sans-serif;
+
+}
+
+.white-space{
+  padding: 1%;
+  background-color: #fff;
+
+}
+.bank-img{
+  width:5%;
+  height:5%;
+}
+
+ .backgroundimg{
+   /* background-color: #074f57; */
+   background-image: url(../Images/moneytransfer.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+    background-size: cover;
+   /* width:1%;  */
+   /* height:8%; */
+  padding-top : 20%;
+  padding-bottom: 20%;
+  padding-left: 32%;
+  padding-right: 20%;
+  text-align: center;
+  font-size: 75%;
+
+ }
+
+.navbar{
+  background-color: #C0D6E4;
+}
+
+.About-us{
+  text-align: center;
+  background-color: #A4DCE9;
+}
+
+.Disclaimer{
+  text-align: center;
+  background-color: #BFE6EF;
+}
+
+.end{
+  text-align: center;
+  background-color: #D8F0F5;
+}
+
+.social-icon{
+    margin: 20px 10px;
+}
